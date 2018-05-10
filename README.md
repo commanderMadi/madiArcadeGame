@@ -25,4 +25,4 @@
 - Wider canvas.
 - Score-based victory.
 
-## Copyright 2017 Ahmed Magdy.
+### Copyright 2017 Ahmed Magdy.
