@@ -1,3 +1,7 @@
+# Classic Arcade Game
+
+### Developed by Ahmed Magdy as part of the Udacity Front-End Nanodegree Program.
+
 ## How to start the game
 - You can either: 
   - Download the zip file by going to this [link](https://github.com/commanderMadi/madiArcadeGame/archive/master.zip), unzip the folder and open index.html in your favorite browser.
@@ -20,3 +24,5 @@
 - More enemies.
 - Wider canvas.
 - Score-based victory.
+
+## Copyright 2017 Ahmed Magdy.
