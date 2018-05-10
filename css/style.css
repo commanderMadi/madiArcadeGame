@@ -1,3 +1,10 @@
 body {
     text-align: center;
+    font-family: "Coda", "Arial", sans-serif;
+}
+
+#footer {
+  margin: -1em auto; /* Fit the page */
+  text-align: center;
+  padding: 0.1em;
 }
