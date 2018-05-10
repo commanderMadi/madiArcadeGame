@@ -1,6 +1,7 @@
 ## How to start the game
-1. Download the zip file.
-2. Click on index.html and it shall open in your default browser.
+- You can either: 
+  - Download the zip file by going to this [link](https://github.com/commanderMadi/madiArcadeGame/archive/master.zip), unzip the folder and open index.html in your favorite browser.
+  - Or you can simply play it live without downloading by going to this [link](https://commandermadi.github.io/madiArcadeGame).
 
 
 ## Game Instructions
